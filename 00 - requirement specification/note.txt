@@ -1,0 +1,5 @@
+AGENDA
+- studi kasus database design dan implementasinya untuk kasus multi bahasa
+
+FEATURE
+- membuat category yang mendukung multi bahasa
